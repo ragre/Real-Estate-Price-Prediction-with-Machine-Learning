@@ -5,12 +5,12 @@ A large data wrangling process was done to bring the data to a stage where is wo
 
 
 ## Approach
-(https://github.com/ragre/Real-Estate-Price-Prediction-with-Machine-Learning/blob/main/images/data-wrangling.png)
+![](https://github.com/ragre/Real-Estate-Price-Prediction-with-Machine-Learning/blob/main/images/data-wrangling.png)
 
-(https://github.com/ragre/Real-Estate-Price-Prediction-with-Machine-Learning/blob/main/images/af.png)
+![](https://github.com/ragre/Real-Estate-Price-Prediction-with-Machine-Learning/blob/main/images/af.png)
 
 
 ## Results
-(https://github.com/ragre/Real-Estate-Price-Prediction-with-Machine-Learning/blob/main/images/results.png)
+![](https://github.com/ragre/Real-Estate-Price-Prediction-with-Machine-Learning/blob/main/images/results.png)
 
-(https://github.com/ragre/Real-Estate-Price-Prediction-with-Machine-Learning/blob/main/images/XAI%20feature%20importance.png)
+![](https://github.com/ragre/Real-Estate-Price-Prediction-with-Machine-Learning/blob/main/images/XAI%20feature%20importance.png)
